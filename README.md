@@ -8,7 +8,7 @@
 *   **Academic Year:** 2025–2026
 *   **Professor:** Dr. S. MHAMMEDI
 *   **Student:** Yassine Ben Acha
-*   **Institution:** [University Name]
+*   **Institution:** **Ecole Nationale de l'Intelligence Artificielle Berkane**
 
 ## 2. Project Description
 This project focuses on the implementation, analysis, and critical evaluation of various Explainable AI (XAI) methods. The primary objective is to deconstruct "black box" machine learning models to understand their decision-making processes. Transparency and interpretability are crucial for building trust in AI systems, identifying biases, and complying with regulatory standards (e.g., GDPR).
