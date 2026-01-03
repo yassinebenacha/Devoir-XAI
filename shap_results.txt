@@ -1,0 +1,25 @@
+Feature                   | SHAP Value
+----------------------------------------
+Goal Scored               | -0.156208
+1st Goal                  | -0.099410
+On-Target                 | -0.082020
+Saves                     | 0.072251
+Off-Target                | 0.047609
+Fouls Committed           | -0.045975
+Offsides                  | -0.044199
+Passes                    | 0.040821
+Red                       | -0.035420
+Distance Covered (Kms)    | 0.029158
+Blocked                   | -0.028020
+Goals in PSO              | -0.027083
+Own goal Time             | 0.023566
+Free Kicks                | 0.019240
+Corners                   | 0.016593
+Yellow Card               | 0.013056
+Own goals                 | -0.010016
+Attempts                  | -0.006022
+Pass Accuracy %           | 0.005838
+Yellow & Red              | -0.004974
+Ball Possession %         | 0.001215
+
+Sum of SHAP: -0.27
